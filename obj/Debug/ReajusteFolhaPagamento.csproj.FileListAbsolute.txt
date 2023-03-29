@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\bin\Debug\ReajusteFolhaPagamento.exe.config
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\bin\Debug\ReajusteFolhaPagamento.exe
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\bin\Debug\ReajusteFolhaPagamento.pdb
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.Form1.resources
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.exe
+C:\Users\Aluno\source\repos\ReajusteFolhaPagamento\obj\Debug\ReajusteFolhaPagamento.pdb
